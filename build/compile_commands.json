@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VS code Projects/Allocation Tree/build",
+  "command": "F:\\mingw-19.0\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\test.dir\\test.cpp.obj -c \"D:\\VS code Projects\\Allocation Tree\\test.cpp\"",
+  "file": "D:/VS code Projects/Allocation Tree/test.cpp",
+  "output": "CMakeFiles/test.dir/test.cpp.obj"
+}
+]

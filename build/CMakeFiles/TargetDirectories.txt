@@ -1,0 +1,3 @@
+D:/VS code Projects/Allocation Tree/build/CMakeFiles/test.dir
+D:/VS code Projects/Allocation Tree/build/CMakeFiles/ALL_BUILD.dir
+D:/VS code Projects/Allocation Tree/build/CMakeFiles/ZERO_CHECK.dir
